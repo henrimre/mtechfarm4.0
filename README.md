@@ -8,3 +8,5 @@ Si vous souhaitez accédéer à l'application voici la marche à suivre :
 3) Saisissez l'identifiant suivant : assistanceagricole@gmail.com
 4) Le mot de passe est cité sur le C.V.
 5) Vous pouvez désormais voyager dans l'application, le menu complet est accéssible via les trois tirets en haut à gauche de l'écran. 
+
+![alt text](https://github.com/henrimre/mtechfarm4.0/blob/main/B%C3%A9tail_d%C3%A9tail.png?raw=true)
