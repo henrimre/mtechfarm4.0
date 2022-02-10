@@ -1,6 +1,6 @@
 # Mtechfarm 4.0
 Ce GitHub contient les visuels de l'application MTech 4.0
-La méthodologie poura voir un accès à l'application se trouve en fin du README. 
+La méthodologie afin d'accéder à l'application se trouve en fin du README. 
 
 ## Screen views
 Les screen views sont sous un affichage smartphone, il existe aussi un format de type navigateur web. 
