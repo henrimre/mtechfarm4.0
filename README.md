@@ -36,8 +36,8 @@ Les screen views sont sous un affichage smartphone, il existe aussi un format de
 ## Avoir accès à l'application :
 Si vous souhaitez accéder à l'application voici la marche à suivre : 
 
-1) Cliquer [ici](https://www.appsheet.com/start/0c25fef6-4140-4f96-b9d4-f22a150a6cd6#appName=MTech-1936373&group=%5B%7B%22Column%22%3A%22Culture%22%2C%22Order%22%3A%22Ascending%22%7D%5D&sort=%5B%7B%22Column%22%3A%22Date%22%2C%22Order%22%3A%22Descending%22%7D%5D&table=Gestion+parcellaire&view=Gestion+parcellaire) pour accéder à l'application
-2) Choisissez de vous identifiez via Google (reconnaissable par le logo G)
+1) Cliquez [ici](https://www.appsheet.com/start/0c25fef6-4140-4f96-b9d4-f22a150a6cd6#appName=MTech-1936373&group=%5B%7B%22Column%22%3A%22Culture%22%2C%22Order%22%3A%22Ascending%22%7D%5D&sort=%5B%7B%22Column%22%3A%22Date%22%2C%22Order%22%3A%22Descending%22%7D%5D&table=Gestion+parcellaire&view=Gestion+parcellaire) pour accéder à l'application
+2) Choisissez de vous identifier via Google (reconnaissable par le logo G)
 3) Saisissez l'identifiant suivant : assistanceagricole@gmail.com
 4) Le mot de passe est cité en bas à droite du C.V.
 5) Vous pouvez désormais voyager dans l'application, le menu complet est accéssible via les trois tirets en haut à gauche de l'écran. 
